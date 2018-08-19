@@ -1,0 +1,73 @@
+html {
+    height: 100%;
+  }
+
+  #TopJohn{
+    padding-left: 100px;
+}
+
+  body {
+     height: 100%;
+  }
+
+  header {
+      background-color;
+      padding:5px;
+      font-size: ;
+      display: block;
+      width: 790px;
+  }
+  nav {
+      line-height:;
+      background-color:;
+      width:125px;
+      display: inline-block;
+      vertical-align: top;
+  }
+  nav ul {
+      list-style-type: upper-roman;
+  }
+  a {
+    text-decoration: none;
+    color:   #E8583E;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    }
+    p { font-family: verdana;
+    }
+    
+    header{
+       border: 5px solid green;
+       padding: 10px;
+       margin: 10px;
+       font-family: calibri;
+       text-align: center;
+    }
+  }
+  section {
+      width: 516px;
+      display: inline-block;
+  }
+
+  #publicbathroom {
+      width: 300px;
+      padding-left: 50px;
+  }
+
+
+  aside {
+    width: 125px;
+    display: inline-block;
+    vertical-align: top;
+    background-color:;
+    font-size: ;
+  }
+  aside ul {
+      list-style-type: none;
+  }
+  footer {
+      width: 790px;
+      background-color:;
+      text-align:;
+      padding:5px;
+      display: block;
+  }
