@@ -1,3 +1,3 @@
-# jeffpball.bootcampspot.coursework
+#HW-Wireframe
 
-This repository is where I am pushing my coursework for a web development bootcamp that I am taking through UW.
+This repository is where the "HW-Wireframe" assignment for the UW web development bootcamp lives.
